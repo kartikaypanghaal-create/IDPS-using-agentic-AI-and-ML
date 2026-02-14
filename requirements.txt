@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+joblib
+python-docx
+PyPDF2
+standard-imghdr
